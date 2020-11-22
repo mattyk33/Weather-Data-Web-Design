@@ -9,7 +9,7 @@ In building this dashboard, we'll create individual pages for each plot and a me
 
 The website must consist of 7 pages total, including:
 
-A landing page containing:
+A "Landing" page containing:
 
 - An explanation of the project.
 - Links to each visualizations page. There should be a sidebar containing preview images of each plot, and clicking an image should take the user to that visualization.
@@ -36,7 +36,7 @@ A "Data" page that:
 
 - Displays a responsive table containing the data used in the visualizations.
 
- -The table must be a bootstrap table component.
+- The table must be a bootstrap table component.
 
 - The data must come from exporting the .csv file as HTML, or converting it to HTML.
 
